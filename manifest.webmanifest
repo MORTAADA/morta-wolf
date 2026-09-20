@@ -1,0 +1,27 @@
+{
+  "name": "White Wolf Scholar",
+  "short_name": "White Wolf",
+  "description": "Personal Academic OS for study, revision, research and scientific skills.",
+  "start_url": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "scope": "./",
+  "prefer_related_applications": false,
+  "background_color": "#08101a",
+  "theme_color": "#0a0e14",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
